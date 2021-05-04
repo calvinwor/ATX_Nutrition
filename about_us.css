@@ -1,0 +1,59 @@
+#Header {
+  border-bottom: 1px solid gray;
+  background-color: #fffdd0;
+}
+#Header h3{
+  margin-right: 60px;
+  text-align: center;
+  font-family: Impact, fantasy;
+}
+#Header a:link{
+  color: rgb(66, 132, 219);
+  text-decoration: none;
+}
+#Header a:visited{
+  color:rgb(66, 132, 219);
+  text-decoration: none;
+}
+.info {
+  padding: 5px;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+  color: darkslategray;
+  background-color:mintcream; 
+}
+#mainMenu {
+  margin-left: auto;
+  margin-right: auto;
+}
+.pics {
+  padding: 20px;
+}
+
+.vid {
+  padding: 20px;
+  text-align: center;
+}
+h5 {
+  font-size: 20px;
+}
+body {
+  font-family: Verdana, sans-serif; margin-right:50px;
+  margin-left: 50px;
+  }
+h4 {
+    text-align: center;
+    font-size: 26px;
+    color: lightsalmon;
+}
+#footer {
+  text-align: center;
+}
+
+#center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+}
